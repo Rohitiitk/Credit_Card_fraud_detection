@@ -8,3 +8,4 @@ A <code>**Machine Learning Project**</code> to detect the Fraud Transactions usi
 - Clearly this was an <code>**Imbalanced Dataset**</code> so I had to used <code>**Oversampling**</code> of fraudulent transactions.
 - Once my dataframe was ready, I used <code>**train_test_split**</code> with the <code>**test size to be 20%**</code>.
 - The <code>**LogisticRegression model**</code> was trained and it reached an <code>**accuracy of 91.69%**</code>.
+- > Dataset : [Click here](https://drive.google.com/file/d/1mnklIcFXGj2MmbK5qykgT6zNhMZI__jg/view?usp=drive_link)
